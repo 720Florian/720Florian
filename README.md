@@ -26,7 +26,7 @@
 ### :man_technologist: About Me : I am a computer science student from Germany
 
  
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn Python.
+- 🥅 2022 Goals: Launch open source projects and learn Python.
 
 ---
 
