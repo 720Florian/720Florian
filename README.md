@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student from Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=720Florian&label=Profile%20views&color=0e75b6&style=flat" alt="720Florian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=720Florian&theme=monokai" alt="720Florian" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=720Florian&theme=monokai" alt="720Florian" /></a> </p>
 
 <div> 
 </div><h3 align="left">Languages and Tools:</h3>
